@@ -11,7 +11,7 @@
             <div class="card border-primary">
                 <!-- -->
                 <div class="card-header border-primary">
-                    <h1 class="card-title" style="float:left">Masterr List Helm G2 </h1>
+                    <h1 class="card-title" style="float:left">Master List Helm G2 </h1>
                     <div class="card-tools">
                             <button type="button" class="btn btn-tool" data-card-widget="collapse" title="Collapse">
                                     <i class="fas fa-minus"></i>
@@ -26,7 +26,7 @@
                                 <th>ID</th>
                                 <th width="40%" style="vertical-align: middle; text-align: center;">Nama Helm</th>
                                 <th width="30%" style="vertical-align: middle; text-align: center;">Stock In Warehouse</th>
-                                <th width="20%" style="vertical-align: middle; text-align: center;">Las Update Stock</th>
+                                <th width="20%" style="vertical-align: middle; text-align: center;">Last Update Stock</th>
                                 <th width="10%" style="vertical-align: middle; text-align: center;">Action</th>
                             </tr>
                         </thead>
