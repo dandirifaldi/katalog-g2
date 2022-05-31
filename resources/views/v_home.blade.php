@@ -11,7 +11,7 @@
             <div class="card border-primary">
                 <!-- -->
                 <div class="card-header border-primary">
-                    <h1 class="card-title" style="float:left">Master List Helm G2 </h1>
+                    <h1 class="card-title" style="float:left">Masterr List Helm G2 </h1>
                     <div class="card-tools">
                             <button type="button" class="btn btn-tool" data-card-widget="collapse" title="Collapse">
                                     <i class="fas fa-minus"></i>
