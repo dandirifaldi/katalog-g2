@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/polb4985/laravel/
-    - /bin/cp -R /home/polb4985/repositories/katalog-g2 $DEPLOYPATH
+    - /bin/cp -R * $DEPLOYPATH
